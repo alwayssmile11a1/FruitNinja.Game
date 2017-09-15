@@ -1,2 +1,2 @@
 # FruitNinja.Game
-Fruit Ninja
+Just a replica of Fruit Ninja game
